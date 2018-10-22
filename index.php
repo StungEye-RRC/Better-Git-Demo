@@ -9,6 +9,6 @@
   <script src="main.js"></script>
 </head>
 <body>
-  <h1>This is my new page</h1>
+  <h1>Wally's Website</h1>
 </body>
 </html>
