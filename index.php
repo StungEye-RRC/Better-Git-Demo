@@ -10,5 +10,11 @@
 </head>
 <body>
   <h1>Wally's Website</h1>
+  <div class="gallery">
+    <img src="" alt="">
+    <img src="" alt="">
+    <img src="" alt="">
+    <img src="" alt="">
+  </div>
 </body>
 </html>
